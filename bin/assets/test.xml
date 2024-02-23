@@ -1,0 +1,64 @@
+<file>
+	<Films>
+		<Film>
+			<title>the godfather</title>
+			<genre>drama, crime</genre>
+			<actors>marlon brando, al pacino</actors>
+			<date>1972</date>
+			<image>Godfather.png</image>
+			<description>The aging patriarch of an organized crime dynasty in postwar New York City transfers control\n of his clandestine empire to his reluctant youngest son.</description>
+		</Film>
+
+		<Film>
+			<title>fightclub</title>
+			<genre>drama</genre>
+			<actors>brad pitt, edward norton</actors>
+			<date>1999</date>
+			<image>FightClub.png</image>
+			<description>An insomniac office worker and a devil-may-care soap maker form an underground\n fight club that evolves into much more.</description>
+		</Film>
+		<Film>
+			<title>a new hope</title>
+			<genre>action, adventure, fantasy</genre>
+			<actors>mark hamill, harrison ford</actors>
+			<date>1977</date>
+			<image>ANewHope.png</image>
+			<description>Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids\n to save the galaxy from the Empire's world-destroying battle station</description>
+		</Film>
+		<Film>
+			<title>empire strikes back</title>
+			<genre>action, adventure, fantasy</genre>
+			<actors>mark hamill, harrison ford</actors>
+			<date>1980</date>
+			<image>EmpireStrikesBack.png</image>
+			<description>After the Rebels are brutally overpowered by the Empire on the ice planet Hoth,\n Luke Skywalker begins Jedi training with Yoda,while his friends are pursued across the galaxy by Darth Vader</description>
+		</Film>
+		<Film>
+			<title>inception</title>
+			<genre>action, adventure</genre>
+			<actors>leonardo dicaprio, joseph gordon</actors>
+			<date>2010</date>
+			<image>TheInception.png</image>
+			<description>A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task\n of planting an idea into the mind of a C.E.O.</description>
+		</Film>
+		<Film>
+			<title>terminator</title>
+			<genre>action</genre>
+			<actors>arnold schwarzenegger, linda hamilton</actors>
+			<date>1991</date>
+			<image>Terminator.png</image>
+			<description>A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine.</description>
+		</Film>
+		<Film>
+			<title>top gun</title>
+			<genre>action, drama</genre>
+			<actors>tom cruise, tim robbins</actors>
+			<date>1986</date>
+			<image>TopGun.png</image>
+			<description>As students at the United States Navy's elite fighter weapons school compete to be best in the class\n one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.</description>
+		</Film>
+
+
+	</Films>
+
+</file>
